@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-using-tailwind-eTQ9gTxOSP](https://your-solution-url.com)
+- Live Site URL: [https://javiit10.github.io/blog-preview-card/](https://your-live-site-url.com)
 
 ## My process
 
